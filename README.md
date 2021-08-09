@@ -1,13 +1,20 @@
 
 > Open this page at [https://astr0fix.github.io/multi-use-compass-for-microbit/](https://astr0fix.github.io/multi-use-compass-for-microbit/)
 
+This is a multi-use compass for the BBC Microbit. It can show magnetic force measured in Microtestlas(µT), Show the current heading and show an arrow pointing norht like a real compass.
+
+**Controls**:
+* A Button Shows the Heading(updates after the text has finished scrolling)
+* B Button shows the magnetic force in Microteslas(µT)
+* A + B Buttons shows an Arrow pointing north
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
-* click on **Extensions** under the gearwheel menu
+* click on **Extensions** under the gear icon menu
 * search for **https://github.com/astr0fix/multi-use-compass-for-microbit** and import
 
 ## Edit this project ![Build status badge](https://github.com/astr0fix/multi-use-compass-for-microbit/workflows/MakeCode/badge.svg)
