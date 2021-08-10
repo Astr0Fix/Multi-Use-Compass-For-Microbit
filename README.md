@@ -1,5 +1,5 @@
 
-> Open this page at [https://astr0fix.github.io/multi-use-compass-for-microbit/](https://astr0fix.github.io/multi-use-compass-for-microbit/)
+> Open this page at [https://astr0fix.github.io/Multi-Use-Compass-For-Microbit/](https://astr0fix.github.io/Multi-Use-Compass-For-Microbit/)
 
 This is a multi-use compass for the BBC Microbit. It can show magnetic force measured in Microtestlas(µT), Show the current heading and show an arrow pointing norht like a real compass.
 
