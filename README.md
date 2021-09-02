@@ -19,7 +19,7 @@ This repository can be added as an **extension** in MakeCode.
 
 ## Edit this project ![Build status badge](https://github.com/astr0fix/multi-use-compass-for-microbit/workflows/MakeCode/badge.svg)
 
-To edit this repository in MakeCode.
+To edit this repository in MakeCode. If you do edit this project please credit me in the description
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
